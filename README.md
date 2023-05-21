@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![1000mj's github stats](https://github-readme-stats.vercel.app/api?username=1000mj&show_icons=true)
 <!--
 **1000mj/1000mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
